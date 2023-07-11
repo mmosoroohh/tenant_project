@@ -4,12 +4,6 @@ import os
 
 from read_csv import read_csv
 
-test_file = 'test.csv'
-rows = [
-    ['0a', '0b', '0c'],
-    ['1a', '1b', '1c'],
-]
-
 
 class TestCsv(unittest.TestCase):
 
