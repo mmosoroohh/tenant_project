@@ -1,0 +1,11 @@
+﻿Period,Date,Transaction,Code,Tax,Remarks,Exclusive,Tax Amount,Inclusive,Name,TelephoneName,Telephone,LeaseStartName,LeaseStart,LeaseEndName,LeaseEnd,VacateDateName,VacateDate
+Tenant,(Staff) Lindiwe Mweli,Code,2897,Main Unit No,245,Property,The Museum Tower - Middle Block (51),General Contact,Lindiwe Mweli (Staff),Telephone,,Lease Starts,01/12/2020,Ends,31/12/2020,Vacate,
+202101,01/01/2021,,,,Balance B/f,,,0,,,,,,,,,
+202102,01/02/2021,,,,Balance B/f,,,0,,,,,,,,,
+202103,01/03/2021,,,,Balance B/f,,,0,,,,,,,,,
+202104,01/04/2021,,,,Balance B/f,,,0,,,,,,,,,
+,01/04/2021,i030,Water,,29/01/2021 - 25/02/2021,26.52,0,26.52,,,,,,,,,
+,01/04/2021,i116,Heat Pump Recovery,,29/01/2021 - 25/02/2021,63.01,0,63.01,,,,,,,,,
+202105,01/05/2021,,,,Balance B/f,,,89.53,,,,,,,,,
+,01/05/2021,i030,Water,,25/02/2021 - 29/03/2021,26.52,0,26.52,,,,,,,,,
+Tenant,(Staff) Arnold,Code,2542,Main Unit No,245,Property,The Museum Tower - Middle Block (51),General Contact,Lindiwe Mweli (Staff),Telephone,,Lease Starts,01/12/2020,Ends,31/12/2020,Vacate,22/07/2023

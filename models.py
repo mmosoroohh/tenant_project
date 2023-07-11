@@ -1,5 +1,4 @@
-from app import db
-from sqlalchemy.dialects.postgresql import JSON
+from .app import db
 
 
 class Tenant(db.Model):
@@ -56,4 +55,3 @@ class Transactions(db.Model):
 
     def __repr__(self):
         return f"<Car {self.transaction_code}>"
-   
